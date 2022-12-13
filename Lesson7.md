@@ -114,4 +114,86 @@ have only to turn to sth. to do ...
 
 * play a ... role/part in sth.
 
-![](image/import-2022-12-13-10-19-49.png)
+
+>To get a full apppreciation of what this means we must turn first to some recent human inventions.
+
+* appreciation 认识
+
+> There if a growing appreciation of the need for environmental refroms.
+
+* to fully aprreciate what this means
+
+* resort to
+
+>We can solve this problem without resorting to legal action.
+
+
+> Everyone knows that if he shouts in the vicinity of a wall or mountainside,an echo will come back.
+
+* in the vicinity of
+
+in the neighborhood of 
+
+close to 
+
+adjacent to 
+
+near
+
+off
+
+>I rent an apartment off campus.
+
+* come back
+
+bounce back
+
+be reflected
+
+>A sound made by tapping on the hull of a ship will be reflected from the sea bottom.
+
+
+>The further off this solid obstruction,the longer time will elapse for the return of the echo.
+
+* off
+
+>He lives far away. = He lives far off.
+
+
+
+> A sound made by tapping on the hull of a ship will be reflected from the sea bottom,and by measuring the time interval between the taps and the receipt of the echoes,the depth of the sea at that point can be calculated.
+
+* will be reflected
+
+come back
+
+bounce back
+
+* sea bottom
+
+sea bed
+
+sea floor
+
+* sth. can be calculated
+
+科学性文章多用被动
+
+> sound will be reflected
+
+> depth can be calculated
+
+
+>The echo-sounding apparatus was born so.
+
+倒装
+
+>Every solid object will reflect a sound,varying according to the size and nature of the object.
+
+* vary according to sth.
+
+>Every retired worker can receive a pension,varying according to his post and working period.
+
+
+
+
