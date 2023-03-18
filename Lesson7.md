@@ -10,6 +10,17 @@
 
 >utilitarian furniture
 
+vegetarian 
+totalitarian 集权主义，集权主义者
+
+> Germany was once a totalitarian state.
+
+humanitarian
+egalitarian
+
+>an egalitarian attitude to voting
+
+
 **elapse**
 正式
 >Three years elapsed.
@@ -20,14 +31,16 @@ go by/pass
 
 "lapse" = slide
 
-collapse
-relapse
+collapse 倒塌，坍塌
+relapse 再度复发，重返恶疾
+
+>relapse into bad habit
 
 **interval**
 
 interval between A and B
 
-at ... intervals
+at ... intervals 每隔 ...
 
 >at weekly/20 minute intervals.
 
@@ -90,7 +103,7 @@ scream/shriek
 
 be used as
 
-acted as
+act as
 
 function as
 
@@ -100,7 +113,7 @@ function as
 
 >You have only to press the button to call the nurse.
 
-have only to turn to sth. to do ...
+* have only to turn to sth. to do ...
 
 >We have only to turn to the concrete example of the 1936 Olympic Games to know that international sporting contests lead to orgies of hatred.
 
@@ -123,7 +136,7 @@ have only to turn to sth. to do ...
 
 * to fully aprreciate what this means
 
-* resort to
+* resort to 借助 
 
 >We can solve this problem without resorting to legal action.
 
